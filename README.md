@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NeelanshCoder
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python,Data Analysis with python, Machine Learning, Deep Learning, SQL server and Data Structure
 - 📫 How to reach  neelanshkumarrathor@gmail.com
 
