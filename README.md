@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NeelanshCoder
+- 👋 Hi, I’m Neelansh Rathor 
 - 🌱 I’m currently learning Python,Data Analysis with python, Machine Learning, Deep Learning, SQL server and Data Structure
 - I am having experience of Power BI. How to write DAX, clean data using Power Query and performing operations in Power Query.
-- 📫 How to reach  neelanshkumarrathor@gmail.com
+- 📫 How to reach neelanshkumarrathor@gmail.com
 
 <!---
 NeelanshCoder/NeelanshCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
